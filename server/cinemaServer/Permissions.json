@@ -1,0 +1,300 @@
+{
+  "usersPermissions": [
+    {
+      "id": "64ef7a65071ecc7389385b9e",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "View Movies",
+          "checked": true
+        },
+        {
+          "name": "Create Movies",
+          "checked": true
+        },
+        {
+          "name": "Delete Movies",
+          "checked": true
+        },
+        {
+          "name": "Update Movies",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": "65133a703ba1a8ff34dc63cd",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "View Movies",
+          "checked": true
+        },
+        {
+          "name": "Create Movies",
+          "checked": true
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "6514788038020faca46eb176",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "View Movies",
+          "checked": true
+        },
+        {
+          "name": "Create Movies",
+          "checked": true
+        },
+        {
+          "name": "Delete Movies",
+          "checked": true
+        },
+        {
+          "name": "Update Movies",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": "656cd1721b710b8bba7fbb90",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "View Movies",
+          "checked": false
+        },
+        {
+          "name": "Create Movies",
+          "checked": false
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "656e26bc1b710b8bba7fbc0e",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "View Movies",
+          "checked": false
+        },
+        {
+          "name": "Create Movies",
+          "checked": false
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": "6582a38fde1a5f391f99f876",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "View Movies",
+          "checked": false
+        },
+        {
+          "name": "Create Movies",
+          "checked": false
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "6582bf10f39bac333e73e6c8",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "View Movies",
+          "checked": true
+        },
+        {
+          "name": "Create Movies",
+          "checked": false
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": false
+        }
+      ]
+    },
+    {
+      "id": "65882bdd4538440c4739d651",
+      "permissions": [
+        {
+          "name": "View Subscriptions",
+          "checked": true
+        },
+        {
+          "name": "Create Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Delete Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "Update Subscriptions",
+          "checked": false
+        },
+        {
+          "name": "View Movies",
+          "checked": true
+        },
+        {
+          "name": "Create Movies",
+          "checked": false
+        },
+        {
+          "name": "Delete Movies",
+          "checked": false
+        },
+        {
+          "name": "Update Movies",
+          "checked": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+/* styles.css */
+
+.button-container {
+    display: flex; /* Display buttons in a row */
+    gap: 10px; /* Adjust the spacing between buttons as needed */
+  }
+  
+  .button-container button {
+    /* Add any additional button styling here */
+    padding: 8px 16px; /* Example: Add padding to buttons */
+    background-color: #007bff; /* Example: Change background color */
+    color: #fff; /* Example: Change text color */
+    border: none; /* Example: Remove button borders */
+    cursor: pointer; /* Example: Change cursor style */
+  }
+  /* styles.css */
+  .active-button {
+    background-color: yellow; /* Set the background color for the active button */
+    border-bottom: 2px solid yellow; /* Add a yellow line below the active button */
+  }
+  /* Add more styles as needed */
+  

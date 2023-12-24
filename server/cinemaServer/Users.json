@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "_id": "64ef7a65071ecc7389385b9e",
+      "UserName": "Manu",
+      "FirstName": "Emmanuelle",
+      "LastName": "Berliner",
+      "SessionTimeOut": 3279,
+      "createdAt": "2023-08-30T20:25:11.442Z"
+    },
+    {
+      "_id": "65133a703ba1a8ff34dc63cd",
+      "UserName": "aBear",
+      "FirstName": "Alon",
+      "LastName": "Berliner",
+      "SessionTimeOut": 2094,
+      "createdAt": "2023-09-26T20:09:20.487Z",
+      "CreatedDate": "2023-09-26T20:09:20.487Z"
+    },
+    {
+      "_id": "6514788038020faca46eb176",
+      "UserName": "brunoM",
+      "FirstName": "Bruno",
+      "LastName": "Mars",
+      "SessionTimeOut": 45,
+      "createdAt": "2023-09-27T18:46:24.625Z",
+      "CreatedDate": "2023-09-27T18:46:24.625Z"
+    },
+    {
+      "_id": "656cd1721b710b8bba7fbb90",
+      "UserName": "dani",
+      "FirstName": "daniel",
+      "LastName": "agari",
+      "SessionTimeOut": 34,
+      "createdAt": "2023-12-03T19:05:22.217Z"
+    },
+    {
+      "_id": "656e26bc1b710b8bba7fbc0e",
+      "UserName": "Morki",
+      "FirstName": "Mor",
+      "LastName": "Cohen",
+      "SessionTimeOut": 20,
+      "createdAt": "2023-12-04T19:21:32.739Z",
+      "CreatedDate": "2023-12-04T19:21:32.739Z"
+    },
+    {
+      "_id": "6582a38fde1a5f391f99f876",
+      "UserName": " RonC",
+      "FirstName": "Ron",
+      "LastName": "Cohen",
+      "SessionTimeOut": 15,
+      "createdAt": "2023-12-20T08:19:27.018Z"
+    },
+    {
+      "_id": "6582bf10f39bac333e73e6c8",
+      "UserName": "Cami",
+      "FirstName": "Camila",
+      "LastName": "Cabyo",
+      "SessionTimeOut": 34,
+      "createdAt": "2023-12-20T10:16:48.732Z",
+      "CreatedDate": "2023-12-20T10:16:48.732Z"
+    },
+    {
+      "_id": "65882bdd4538440c4739d651",
+      "UserName": "Benzi",
+      "FirstName": "Ben",
+      "LastName": "Tzvi",
+      "SessionTimeOut": 30,
+      "createdAt": "2023-12-24T13:02:21.634Z"
+    }
+  ]
+}
