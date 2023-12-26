@@ -18,10 +18,6 @@ This project is a web application tailored for managing movies, users, and subsc
 
   <img src = "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width = "60px" height = "60px">
 
-- **JWT (JSON Web Tokens)**
-
-  <img src = "https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width = "60px" height = "60px">
-
 - **VSCODE**
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60px" height="60px">
